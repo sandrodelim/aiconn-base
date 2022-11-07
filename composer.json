@@ -1,0 +1,20 @@
+{
+    "name": "aiconn/sandrodelim",
+    "description": "Aiconn Simple PHP Framework",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aiconn\\": "./"
+        },
+        "files" : [
+            "Infra/Utils.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Sandro Mattos",
+            "email": "sandrodelim@gmail.com"
+        }
+    ],
+    "require": {}
+}

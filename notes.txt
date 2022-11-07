@@ -1,0 +1,10 @@
+# Annotations for this project
+
+
+ - Devido a um problema no Composer foi alterada a configuração de TLS.
+ ```
+composer config -g -- disable-tls true
+ ```
+
+
+
